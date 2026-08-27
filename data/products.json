@@ -1,0 +1,50 @@
+[
+  {
+    "id": "P001",
+    "name": "Campus Backpack",
+    "category": "Bags",
+    "price": 1499,
+    "description": "Water-resistant college backpack with laptop compartment",
+    "tags": "college backpack laptop travel"
+  },
+  {
+    "id": "P002",
+    "name": "Urban Laptop Backpack",
+    "category": "Bags",
+    "price": 1899,
+    "description": "Stylish laptop backpack with padded compartments",
+    "tags": "college backpack laptop office"
+  },
+  {
+    "id": "P003",
+    "name": "Steel Water Bottle",
+    "category": "Accessories",
+    "price": 499,
+    "description": "750ml insulated stainless steel water bottle",
+    "tags": "water bottle college fitness"
+  },
+  {
+    "id": "P004",
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "price": 1299,
+    "description": "Compact wireless earbuds with charging case",
+    "tags": "earbuds music student"
+  },
+  {
+    "id": "P005",
+    "name": "Laptop Sleeve",
+    "category": "Accessories",
+    "price": 799,
+    "description": "Protective 15-inch laptop sleeve",
+    "tags": "laptop sleeve college office"
+  },
+  {
+    "id": "P006",
+    "name": "USB-C Hub",
+    "category": "Electronics",
+    "price": 999,
+    "description": "Multi-port USB-C hub for laptops",
+    "tags": "usb hub laptop student"
+  }
+]
